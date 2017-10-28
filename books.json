@@ -1,0 +1,28 @@
+[
+   {"bookid":"1",
+    "title":"Sherlock Holmes and the Missing Shakespeare (The Watson Files) (Volume 1)",
+    "author":"J.R. Rain, Chanel Smith",
+    "genre":"Crime Mystery",
+    "price":"6.99",
+    "isbn":"9781546319245",
+    "publisher":"CreateSpace Independent Publishing Platform",
+    "publish_date":"2017-04-25"    },
+   
+    {"bookid":"2",
+     "title":"The Kindaichi Case Files: The Opera House Murders",
+     "author":"Yozaburo Kanari,Fumiya Sato",
+     "genre":"Crime Mystery",
+     "price":"14.96",
+     "isbn":"9781591823544",
+     "publisher":"TokyoPop",
+     "publish_date":"2003-06-10"  },
+   
+     {"bookid":"3",
+      "title":"NCIS Los Angeles: Bolthole",
+      "author":"Jeff Mariotte",
+      "genre":"Crime Mystery",
+      "price":"6.47",
+      "isbn":"9781783296330",
+      "publisher":"Titan Books",
+      "publish_date":"2016-11-29" }
+]
