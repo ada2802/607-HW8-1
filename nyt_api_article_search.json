@@ -1,0 +1,383 @@
+﻿{
+  "status": "OK",
+  "copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+  "response": {
+    "docs": [
+      {
+        "web_url": "https://www.nytimes.com/reuters/2017/10/28/world/europe/28reuters-germany-politics-afd-weidel.html",
+        "snippet": "Alice Weidel, a leader of Germany's far-right Alternative for Germany (AfD) party, said the late British Prime Minister Margaret Thatcher is her political role model, saying Thatcher got Britain back on its feet when it was facing economic ruin.",
+        "blog": {},
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "'Margaret Thatcher Is My Role Model': German Far-Right AfD Leader",
+          "print_headline": "'Margaret Thatcher Is My Role Model': German Far-Right AfD Leader"
+        },
+        "keywords": [],
+        "pub_date": "2017-10-28T21:39:28+0000",
+        "document_type": "article",
+        "new_desk": "None",
+        "section_name": "Europe",
+        "byline": {
+          "original": "By REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "59f4f91695d0e0246f212b8e",
+        "word_count": 315,
+        "score": 1,
+        "uri": "nyt://article/be8c49ed-9dbf-54c2-a916-4831d1148bfe"
+      },
+      {
+        "web_url": "https://www.nytimes.com/reuters/2017/10/28/us/28reuters-usa-trump-jfk.html",
+        "snippet": "U.S. President Donald Trump said on Saturday he would release all documents related to the 1963 assassination of President John F. Kennedy except those with the names and addresses of people who are still alive.",
+        "blog": {},
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Says Will Release Nearly All JFK Assassination Files",
+          "print_headline": "Trump Says Will Release Nearly All JFK Assassination Files"
+        },
+        "keywords": [],
+        "pub_date": "2017-10-28T21:33:27+0000",
+        "document_type": "article",
+        "new_desk": "None",
+        "byline": {
+          "original": "By REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "59f4f7b295d0e0246f212b8c",
+        "word_count": 94,
+        "score": 1,
+        "uri": "nyt://article/9cd79e34-6970-5fc0-94d7-d2979b8a7702"
+      },
+      {
+        "web_url": "https://www.nytimes.com/2017/10/28/arts/music/jay-z-444-tour-review.html",
+        "snippet": "At the opening of his “4:44” tour, Jay-Z showcased his effortless delivery and tried to translate the intimacy of that album’s themes to a large room.",
+        "blog": {},
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "type": "image",
+            "subtype": "xlarge",
+            "url": "images/2017/10/30/arts/30JAYZ2/30JAYZ2-articleLarge.jpg",
+            "height": 400,
+            "width": 600,
+            "rank": 0,
+            "legacy": {
+              "xlargewidth": 600,
+              "xlarge": "images/2017/10/30/arts/30JAYZ2/30JAYZ2-articleLarge.jpg",
+              "xlargeheight": 400
+            }
+          },
+          {
+            "type": "image",
+            "subtype": "wide",
+            "url": "images/2017/10/30/arts/30JAYZ2/30JAYZ2-thumbWide.jpg",
+            "height": 126,
+            "width": 190,
+            "rank": 0,
+            "legacy": {
+              "wide": "images/2017/10/30/arts/30JAYZ2/30JAYZ2-thumbWide.jpg",
+              "widewidth": 190,
+              "wideheight": 126
+            }
+          },
+          {
+            "type": "image",
+            "subtype": "thumbnail",
+            "url": "images/2017/10/30/arts/30JAYZ2/30JAYZ2-thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+            "rank": 0,
+            "legacy": {
+              "thumbnailheight": 75,
+              "thumbnail": "images/2017/10/30/arts/30JAYZ2/30JAYZ2-thumbStandard.jpg",
+              "thumbnailwidth": 75
+            }
+          }
+        ],
+        "headline": {
+          "main": "Review: Onstage Jay-Z Forgoes Distractions, Drilling Down to the Message",
+          "print_headline": "Review: Onstage Jay-Z Forgoes Distractions, Drilling Down to the Message"
+        },
+        "keywords": [
+          {
+            "isMajor": "N",
+            "rank": 1,
+            "name": "subject",
+            "value": "Rap and Hip-Hop"
+          },
+          {
+            "isMajor": "N",
+            "rank": 2,
+            "name": "persons",
+            "value": "Jay-Z"
+          },
+          {
+            "isMajor": "N",
+            "rank": 3,
+            "name": "glocations",
+            "value": "Anaheim (Calif)"
+          },
+          {
+            "isMajor": "N",
+            "rank": 4,
+            "name": "creative_works",
+            "value": "4:44 (Album)"
+          }
+        ],
+        "pub_date": "2017-10-28T21:32:02+0000",
+        "document_type": "article",
+        "new_desk": "Culture",
+        "section_name": "Music",
+        "byline": {
+          "original": "By JON CARAMANICA"
+        },
+        "type_of_material": "Review",
+        "_id": "59f4f75b95d0e0246f212b8b",
+        "word_count": 797,
+        "score": 1,
+        "uri": "nyt://article/bc97388c-9adf-56f2-9d1d-215a7f9faf2a"
+      },
+      {
+        "web_url": "https://www.nytimes.com/reuters/2017/10/28/sports/baseball/28reuters-baseball-mlb-hou-gurriel.html",
+        "snippet": "Houston's Yuli Gurriel will not miss any World Series games for the racist gesture he made toward Dodgers' Japanese pitcher Yu Darvish but will serve a five-game ban next season, Major League Baseball Commissioner Rob Manfred said on Saturday.",
+        "blog": {},
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Gurriel Banned Five Games in 2018 for Racist Gesture",
+          "print_headline": "Gurriel Banned Five Games in 2018 for Racist Gesture"
+        },
+        "keywords": [],
+        "pub_date": "2017-10-28T21:27:27+0000",
+        "document_type": "article",
+        "new_desk": "None",
+        "section_name": "Baseball",
+        "byline": {
+          "original": "By REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "59f4f64795d0e0246f212b8a",
+        "word_count": 298,
+        "score": 1,
+        "uri": "nyt://article/e000000d-f0ca-5d39-a4ae-daacaaa932cf"
+      },
+      {
+        "web_url": "https://www.nytimes.com/aponline/2017/10/28/us/ap-us-veterans-health-care-omaha-list.html",
+        "snippet": "U.S. Department of Veterans Affairs officials say an unauthorized, secret waiting list for psychotherapy appointments at Omaha's VA hospital delayed care for 87 veterans this year.",
+        "blog": {},
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "VA: Secret Waiting List Delayed Care for 87 Veterans in 2017",
+          "print_headline": "VA: Secret Waiting List Delayed Care for 87 Veterans in 2017"
+        },
+        "keywords": [],
+        "pub_date": "2017-10-28T21:24:38+0000",
+        "document_type": "article",
+        "new_desk": "None",
+        "byline": {
+          "original": "By THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "59f4f5a095d0e0246f212b89",
+        "word_count": 318,
+        "score": 1,
+        "uri": "nyt://article/2014430b-02df-5613-b337-1bcadb205cd8"
+      },
+      {
+        "web_url": "https://www.nytimes.com/2017/10/28/nyregion/de-blasio-donor-liar.html",
+        "snippet": "A day after dodging questions, Mayor Bill de Blasio dismissed the testimony of a campaign donor who said money gave him access to City Hall.",
+        "blog": {},
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "type": "image",
+            "subtype": "xlarge",
+            "url": "images/2017/10/29/nyregion/29mayor-1/29mayor-1-articleLarge.jpg",
+            "height": 400,
+            "width": 600,
+            "rank": 0,
+            "legacy": {
+              "xlargewidth": 600,
+              "xlarge": "images/2017/10/29/nyregion/29mayor-1/29mayor-1-articleLarge.jpg",
+              "xlargeheight": 400
+            }
+          },
+          {
+            "type": "image",
+            "subtype": "wide",
+            "url": "images/2017/10/29/nyregion/29mayor-1/29mayor-1-thumbWide.jpg",
+            "height": 126,
+            "width": 190,
+            "rank": 0,
+            "legacy": {
+              "wide": "images/2017/10/29/nyregion/29mayor-1/29mayor-1-thumbWide.jpg",
+              "widewidth": 190,
+              "wideheight": 126
+            }
+          },
+          {
+            "type": "image",
+            "subtype": "thumbnail",
+            "url": "images/2017/10/29/nyregion/29mayor-1/29mayor-1-thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+            "rank": 0,
+            "legacy": {
+              "thumbnailheight": 75,
+              "thumbnail": "images/2017/10/29/nyregion/29mayor-1/29mayor-1-thumbStandard.jpg",
+              "thumbnailwidth": 75
+            }
+          }
+        ],
+        "headline": {
+          "main": "De Blasio Says Donor Who Claimed Money Bought Access Is a ‘Liar’",
+          "print_headline": "De Blasio Says Donor Who Claimed Money Bought Access Is a ‘Liar’"
+        },
+        "keywords": [
+          {
+            "isMajor": "N",
+            "rank": 1,
+            "name": "subject",
+            "value": "Elections, Mayors"
+          },
+          {
+            "isMajor": "N",
+            "rank": 2,
+            "name": "subject",
+            "value": "Campaign Finance"
+          },
+          {
+            "isMajor": "N",
+            "rank": 3,
+            "name": "persons",
+            "value": "de Blasio, Bill"
+          },
+          {
+            "isMajor": "N",
+            "rank": 4,
+            "name": "persons",
+            "value": "Rechnitz, Jona S"
+          },
+          {
+            "isMajor": "N",
+            "rank": 6,
+            "name": "organizations",
+            "value": "Correction Officers' Benevolent Assn (NYC)"
+          }
+        ],
+        "pub_date": "2017-10-28T21:19:15+0000",
+        "document_type": "article",
+        "new_desk": "Metro",
+        "byline": {
+          "original": "By WILLIAM NEUMAN"
+        },
+        "type_of_material": "News",
+        "_id": "59f4f46295d0e0246f212b88",
+        "word_count": 883,
+        "score": 1,
+        "uri": "nyt://article/14b019d4-4e13-58f4-b94a-82da2705c297"
+      },
+      {
+        "web_url": "https://www.nytimes.com/aponline/2017/10/28/sports/ap-car-nascar-martinsville-final-practice-.html",
+        "snippet": "Chase Elliott was fastest of the playoff contenders in the final practice before Sunday's race at Martinsville Speedway.",
+        "blog": {},
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Elliott Fastest Playoff Driver in Martinsville Practice",
+          "print_headline": "Elliott Fastest Playoff Driver in Martinsville Practice"
+        },
+        "keywords": [],
+        "pub_date": "2017-10-28T21:18:35+0000",
+        "document_type": "article",
+        "new_desk": "None",
+        "byline": {
+          "original": "By THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "59f4f44195d0e0246f212b87",
+        "word_count": 183,
+        "score": 1,
+        "uri": "nyt://article/39663b9b-d202-575c-b3ce-78e2ae200f1c"
+      },
+      {
+        "web_url": "https://www.nytimes.com/aponline/2017/10/28/us/ap-us-anthem-protest-officials.html",
+        "snippet": "A father and son part of a high school football game's officiating crew walked off the field after members of one team knelt during the national anthem.",
+        "blog": {},
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "2 Refs Refuse to Work High School Game After Anthem Protest",
+          "print_headline": "2 Refs Refuse to Work High School Game After Anthem Protest"
+        },
+        "keywords": [],
+        "pub_date": "2017-10-28T21:12:35+0000",
+        "document_type": "article",
+        "new_desk": "None",
+        "byline": {
+          "original": "By THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "59f4f2d395d0e0246f212b86",
+        "word_count": 129,
+        "score": 1,
+        "uri": "nyt://article/50a5c735-2c54-5c5f-9aa2-19ae28acb865"
+      },
+      {
+        "web_url": "https://www.nytimes.com/reuters/2017/10/28/sports/soccer/28reuters-soccer-spain-atb-fcb.html",
+        "snippet": "Lionel Messi scored his 12th league goal of the season but Barcelona had to rely on exceptional saves from Marc-Andre ter Stegen as they rode their luck to win 2-0 at Athletic Bilbao on Saturday and stay four points clear at the top of La Liga.",
+        "blog": {},
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Barca Stay Clear at the Top, Atletico Draw Again",
+          "print_headline": "Barca Stay Clear at the Top, Atletico Draw Again"
+        },
+        "keywords": [],
+        "pub_date": "2017-10-28T21:03:28+0000",
+        "document_type": "article",
+        "new_desk": "None",
+        "section_name": "Soccer",
+        "byline": {
+          "original": "By REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "59f4f0ad95d0e0246f212b85",
+        "word_count": 500,
+        "score": 1,
+        "uri": "nyt://article/1d54d066-994b-50f7-8045-6aa81813838a"
+      },
+      {
+        "web_url": "https://www.nytimes.com/aponline/2017/10/28/us/ap-us-grizzly-hospital.html",
+        "snippet": "A grizzly bear killed for preying on cattle in Montana will be stuffed and put on display.",
+        "blog": {},
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Fat Grizzly Killed for Preying on Calves to Be Displayed",
+          "print_headline": "Fat Grizzly Killed for Preying on Calves to Be Displayed"
+        },
+        "keywords": [],
+        "pub_date": "2017-10-28T20:57:45+0000",
+        "document_type": "article",
+        "new_desk": "None",
+        "byline": {
+          "original": "By THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "59f4ef5295d0e0246f212b84",
+        "word_count": 137,
+        "score": 1,
+        "uri": "nyt://article/f43723c6-f6fc-5b28-b848-89af18d9ce6a"
+      }
+    ],
+    "meta": {
+      "hits": 15384621,
+      "offset": 0,
+      "time": 657
+    }
+  }
+}
